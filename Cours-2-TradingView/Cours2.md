@@ -81,7 +81,18 @@ Il existe deux catégories de trader : les traders macro et les traders micro/qu
 
     ![](./Screenshots/11.png)
 
+
+<br/>
+<br/>
+
+- **Stochastic Oscillator** : le stochastic est un indicateur d'accélération (comme le RSI). Il vaut entre 0 et 100. En analysant la formule en dessous on remarque que si le close est très haut, le stochastic est proche de 100 et si le close est  très bas, le stochastic est proche de 0.
+
+    - Formule : 
+    ![](./Screenshots/12.png)
     
+    - En général, quand on utilise le stochastic on regarde les maximum et les minimum. En effet, si le stochastic arrive à son maximum, ça veut surement dire que le prix va ensuite redescendre (et vice versa)
+
+    ![](./Screenshots/13.png)    
 
 
 <br/>
