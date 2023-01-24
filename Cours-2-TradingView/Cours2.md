@@ -98,3 +98,8 @@ Il existe deux catégories de trader : les traders macro et les traders micro/qu
 <br/>
 <br/>
 <br/>
+
+
+## 4) Stratégie basique avec RSI
+
+
